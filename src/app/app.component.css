@@ -1,0 +1,36 @@
+#main-controls {
+  display: flex;
+  justify-content: space-around;
+  margin: 24px 0 24px;
+}
+
+
+.container {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.table-div {
+  width:75%;
+  margin-bottom: 48px
+}
+
+tr, mat-form-field {
+    width:100%
+}
+
+input,mat-label {
+  color: black !important;
+}
+
+mat-icon {
+  cursor: pointer;
+}
+
+.table-actions {
+  text-align: right;
+  justify-content: flex-end;
+}
+
