@@ -17,6 +17,18 @@
   margin-bottom: 48px
 }
 
+.red {
+  background-color: #DF372F !important;
+}
+
+.orange {
+  background-color: #F37C2E !important
+}
+
+.green {
+  background-color: #4EEC12 !important;
+}
+
 tr, mat-form-field {
     width:100%
 }
