@@ -1,4 +1,4 @@
-# DofusHelp
+# DofusHelp (pour github pages penser a mettre le base href sur le nom du repo)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
 
